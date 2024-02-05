@@ -1,0 +1,7 @@
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\openClosedPrinciples\openClosedPrinciples\bin\Debug\openClosedPrinciples.exe.config
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\openClosedPrinciples\openClosedPrinciples\bin\Debug\openClosedPrinciples.exe
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\openClosedPrinciples\openClosedPrinciples\bin\Debug\openClosedPrinciples.pdb
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\openClosedPrinciples\openClosedPrinciples\obj\Debug\openClosedPrinciples.csproj.AssemblyReference.cache
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\openClosedPrinciples\openClosedPrinciples\obj\Debug\openClosedPrinciples.csproj.CoreCompileInputs.cache
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\openClosedPrinciples\openClosedPrinciples\obj\Debug\openClosedPrinciples.exe
+C:\Users\Dan Edward\source\repos\SOLID_PRINCIPLES\openClosedPrinciples\openClosedPrinciples\obj\Debug\openClosedPrinciples.pdb
